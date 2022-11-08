@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LABA1</string>
+    <string name="next">NEXT_ACTIVITY</string>
+    <string name="lion_voice">Lion voice</string>
+    <string name="lion_run">Lion run</string>
+    <string name="Eagle_voice">Eagle voice</string>
+    <string name="eagle_fly">Eagle fly</string>
+    <string name="whale_fountain">Whale fountain</string>
+    <string name="whale_swim">Whale swim</string>
+</resources>
